@@ -1,0 +1,757 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+    <title>Cha-Ching Official Website - Earn, Save, Spend, Donate</title>
+    <meta property="og:title" content="Cha-Ching Official Website - Earn, Save, Spend, Donate" />
+	<meta property="og:image" content="http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/includes/images/fbicons/epi01a.png" />
+	<meta property="og:site_name" content="Cha-Ching Official Website"/>
+    <meta property="og:description" content= "Cha-Ching is a financial literacy program programme to help parents in Asia build money smart values for children. In this music video, the band shows how money is printed by a press and then passes through the cycle of every banknote: Earn, Save, Spend and Donate!. Cha-Ching is brought to you by Prudential." />
+
+    
+    <meta name="DESCRIPTION" content="Cha-Ching is a financial literacy program programme to help parents in Asia build money smart values for children. In this music video, the band shows how money is printed by a press and then passes through the cycle of every banknote: Earn, Save, Spend and Donate!. Cha-Ching is brought to you by Prudential."/>
+    
+    <meta name="KEYWORDS" content="music videos, Earn, Save, spend, donate, Justin, Charity, Pepper, Zul, Bobby, Prudence, financial literacy, smart money, money matters, pocket money, Prudence, Cartoons, cartoon, cartoon network, TV cartoons South East Asia, TV cartoons, South East Asia, Cartoon Network, cartoon characters, childrens comics South East Asia, childrens cartoons, kids television South East Asia, blog, message board, videos, my studio, powerpuff girls, scooby doo, ben 10, my gympartner, ed, edd and eddy, flintstones sites, animation South East Asia, anime sites, games online, hanna barbera, the jetsons, johnny bravo, kids comics, kids TV, childrens web sites, web sites for kids, funstuff, downloadables, icon, wallpapers,  games, online games, Hong Kong, Singapore, Malaysia, Vietnam, Thailand, Indonesia, Angelo Rules, Scooby-Doo! Mystery Incorporated, Generator Rex, Toonix, K9, cooby Doo,Ben 10 Ultimate Alien, Alien of the Month, Chowder, Ben 10's Time Machine, Foster's home for Imaginary friends, Ben 10 Alien Force, Adventure Time,The Marvelous Misadventures of Flapjack, Batman - The Brave and The Bold, Ben 10, Courage the Cowardly Dog, Deltora Quest, Gwen 10, Inazuma Eleven, Iron Man, Jimmy Two-Shoes, League Of Super Evil, Metal Fight Beyblade, Naruto, PowerPuff Girls Z, Star Wars: The Clone Wars, Super Hero Squad, Wolverine and the X-Men, Ben 10 Alien Swarm, BEN10 Days of Alien Christmas, Camp Lazlo, Cartoon Network Paws , &, Claws, Chop Socky Chooks, Christmas, Codename: Kids Next Door, Dexter's Laboratory, Ed, Edd n Eddy, Fantastic Four, Happy Happy, Har Har Harlidays, Hero 108,Hot Wheels Battle Force 5,Johnny Bravo, Justice League Unlimited, Kamen Rider Dragon Knight, My Gym Partner's A Monkey, Pink Panther, Robot Boy, Rocket Jo, Samurai Jack, SINOTECH, Squirrel Boy, Teen Titans, The Garfield Show, The Grim Adventures of Billy & Mandy, The Life & Times of Juniper Lee, The New Woody Woodpecker Show, The PowerPuff Girls, The Secret Saturdays, Thumb Wrestling Federation, Tom And Jerry, Toonilicious, Transformers Animated, Tricky TV, Xiaolin Showdown">
+    
+
+
+    <!-- META TAGS -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="language" content="en" />
+
+<!-- MOBILE META TAGS -->
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<meta name="viewport" content="initial-scale=1.0;">
+<!-- <meta name="viewport" content="width=device-width, user-scalable=yes" /> -->
+<!-- <meta name="HandheldFriendly" content="True" /> -->
+
+
+<!-- FACEBOOK META TAGS -->
+<meta property="og:title" content="Cha-Ching Official Website"/>
+<meta property="og:image" content="http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/includes/images/common/chaching_logo_104.png"/>
+<meta property="og:site_name" content="Cha-Ching Official Website"/>
+<meta property="og:description" content="Cha-Ching is a financial literacy program programme to help parents in Asia build money smart values for children. The Cha-Ching website contains games, apps, music videos, and at home activities for parents and kids. Cha-Ching is brought to you by Prudential."/>
+<!-- LOGOS -->
+<link href="http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/includes/images/common/chaching_stacked_logo.ico" rel="icon" type="image/x-icon" />    
+<link href="http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/includes/images/common/chaching_stacked_logo.ico" rel="shortcut icon" type="image/x-icon" />
+<link rel="apple-touch-icon" href="http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/includes/images/common/chaching_logo_72.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/includes/images/common/chaching_logo_72.png" />
+
+<!-- FAVICON -->
+<link href="http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/includes/images/common/favicon.ico" rel="icon" type="image/x-icon" />    
+<link href="http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/includes/images/common/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+
+<!-- EXTERNAL FILES ( CSS and JS )-->
+<!-- CSS -->
+<link rel="stylesheet" href="includes/css/common_font_face.css" media="all" type="text/css" />
+<link rel="stylesheet" href="http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/includes/css/common_style.css" media="all" type="text/css" />
+
+<!-- JS -->
+<script type="text/javascript" language="javascript">
+//alert( navigator.userAgent );
+<!--
+var device = 'pc';
+var redirect = false;
+
+if ( navigator.userAgent.match(/Android/i) )
+{
+	//alert( 'you are viewing this site using Android ( Mobile ).' );
+	device = 'android';
+	redirect = true;	
+}
+else if ( navigator.userAgent.match(/webOS/i)  )
+{
+	//alert( 'you are viewing this site using HP TouchPad, Pre, Pixi, and Veer.' );
+	device = 'webOS';
+	redirect = true;	
+}
+else if ( navigator.userAgent.match(/iPhone/i) )
+{
+	//alert( 'you are viewing this site using Iphone.' );
+	device = 'iphone';
+	redirect = true;	
+}
+else if ( navigator.userAgent.match(/iPod/i) )
+{
+	//alert( 'you are viewing this site using iPOD.' );
+	device = 'ipod';
+	redirect = true;	
+}
+else if ( navigator.userAgent.match(/BlackBerry/i) )
+{
+	//alert( 'you are viewing this site using BlackBerry.' );
+	device = 'blackberry';
+	redirect = true;	
+}
+else if ( navigator.userAgent.match(/Nokia/i) )
+{
+	//alert( 'you are viewing this site using Nokia.' );
+	device = 'nokia';
+	redirect = true;	
+}
+else
+{
+	//alert( 'you are viewing this site using Mac Machine/PC/Laptop' );
+	device = 'pc';
+}
+
+
+
+if ( redirect == true )
+{
+	location.href = 'http://www.cartoonnetworkasia.com/cha-ching-mobile/';	
+}
+
+
+/*else if ( navigator.userAgent.match(/iPad/i) )
+{
+	//alert( 'you are viewing this site using Ipad.' );
+	device = 'ipad';
+	redirect = true;	
+}*/
+
+-->
+</script><script type="text/javascript" src="http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/includes/js/swfobject.js" language="javascript"></script>
+<script type="text/javascript" src="http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/includes/js/jquery-1.6.4.js"></script>
+<script type="text/javascript" src="http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/includes/js/common_function.js"></script>
+<script type="text/javascript" src="http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/includes/js/doubleclick_tracking.js"></script>
+
+<!-- Load jQuery, SimpleModal and Basic JS files -->
+<script type='text/javascript' src='http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/includes/js/jquery.js'></script>
+<script type='text/javascript' src='http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/includes/js/jquery.simplemodal.js'></script>
+<script type='text/javascript' src='http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/includes/js/popup.js'></script>
+<script type='text/javascript' src='http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/includes/js/request_event.js'></script>
+
+<script language="JavaScript" src="/include/omniture/s_code.php"></script>
+
+
+    <!-- EXTERNAL FILES -->
+    <!-- CSS -->
+    <link rel="stylesheet" href="http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/includes/css/mvs_style.css" media="all" type="text/css" />
+
+
+</head>
+<body >
+<!-- TRACKING SYSTEM ( Doubleclick ) * Check Tracking Systems below for Omniture and Webtrends * -->
+<div id="doubleclick">
+</div>
+<script type="text/javascript">
+// insert the IFRAME element after the web page finishes loading
+window.onload = function() {
+	// DOUBLECLICK TAG
+    createIframe( 'video344' );
+	// WEBTRENDS TAG
+	track_event( '/swfs/MVs.swf.html', 'MVS', 'Mvs', 'MV', 1, 'click'  ); 
+	// LOAD EPISODE
+	view_episode( 'popup-mvepisode-content', 'mvs_episode.php', 'http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/', 'http://www.cartoonnetworkasia.com/contest/2011/07_prudential//', 'PH' ,  'epi1.flv', 'rtmp://cp55901.edgefcs.net/ondemand/flash/cn/eng/contest/cha-ching/', 1, 'http://www.youtube.com/embed/yD6iVjViT4Y?rel=0' );
+	
+}
+</script> 
+<noscript>
+<iframe src="http://fls.doubleclick.net/activityi;src=3340595;type=cha-c923;cat=video344;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</noscript>
+
+
+<!-- ##### BACKGROUND IMAGE and POPUP CONTENT ##### -->
+<!-- BACKGROUND -->
+<div id="background">
+    <img src="http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/includes/images/common/bg.png" width="100%" height="100%" id="finlit-background-image" />
+</div>
+<script type="text/javascript">
+	//resize_element( 'finlit-background-image', 1050 );
+</script>
+
+<!-- END OF BACKGROUND IMAGE DIV -->
+<div id='transparent-bg'>
+</div>
+
+
+<!-- LOGIN -->
+<div id="popup-login-content">
+	<script type='text/javascript' src='http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/includes/js/clientside_validation.js'></script>
+<script type='text/javascript' src='http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/includes/js/backend_call.js'></script>
+
+<div id="login-form">
+    <div id="login-message-container">
+        <a href="#" id="close-btn" onclick="close_popup_message( 'login-message-container' )" ></a>
+        <div id="loginmsg-left-container">
+        </div>
+        <div id="loginmsg-right-container" class="login-validateTips">
+        </div>
+    </div>
+    
+    <div id="login-entry-form">
+    <form id="login-frm" method="post">
+        <!--<a href="#" class="lbAction" rel="deactivate" id="close-btn"></a>-->
+        <a href="#" id="close-btn" onclick="close_modal( false , 'mv_1.php' );" ></a>
+
+        <div id="login-details">
+            <label id="username-lbl"><input type="text" id="username" name="username" value="enter username" maxlength="30" onfocus="clear_textfield( 'username' );" tabindex="1" onkeypress="return handleEnter(this, event);" /></label>
+            <label id="password-lbl"><input type="password" id="password" name="password" value="password" maxlength="30" onfocus="clear_textfield( 'password' );" tabindex="2" onkeypress="return handleEnter(this, event);" /></label>
+        </div>
+         
+        <div id="submit-btns">
+        <button id="registration-btn"  onclick="close_modal( true , 'popup-reg-content' ); doubleclick_tag( 'mv_1.php' , 'conte585' );  return false;" tabindex="4"></button> 
+        <button id="login-btn" onclick="login( 'mv_1.php' ); return false;" tabindex="3" ></button>
+        </div>
+    </form>
+    </div>
+</div>
+
+<script type="text/javascript" >
+function handleEnter (field, event) 
+{
+	var keyCode = event.keyCode ? event.keyCode : event.which ? event.which : event.charCode;
+	if (keyCode == 13) 
+	{
+		// login
+		// alert( 'login' );
+		login( 'mv_1.php' );
+		return false;
+	} 
+}      
+
+</script>
+</script></div>
+
+
+
+<!-- REGISTRATION -->
+<div id="popup-reg-content">
+	
+<script type='text/javascript' src='http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/includes/js/clientside_validation.js'></script>
+<script type='text/javascript' src='http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/includes/js/backend_call.js'></script>
+
+<div id="registration-form">
+    <div id="reg-message-container">
+        <a href="#" id="close-btn" onclick="close_popup_message( 'reg-message-container' )" ></a>
+        <div id="regmsg-left-container">
+        </div>
+        <div id="regmsg-right-container" class="reg-validateTips">
+        </div>
+    </div>
+
+    <a href="#" id="close-btn" onclick="close_modal( false , 'mv_1.php' );" ></a>
+
+    <div id="registration-content">
+    <form id="reg-frm" method="post">
+		<span>
+            <label class="regtext-format">
+            First Name
+            </label>
+            <input type="text" name="first_name" id="first_name" value="" />
+        </span>
+
+		<span>
+            <label class="regtext-format">
+            Last Name
+            </label>
+            <input type="text" name="last_name" id="last_name" value="" />
+        </span>
+        
+		<br />
+		<span>
+            <label class="regtext-format">
+            Email
+            </label>
+            <input type="text" name="email" id="email" value="" />
+        </span>
+
+        <span>
+            <label class="regtext-format">
+            Gender
+            </label>
+            <span class="regtext-format"><input type="checkbox" name="gender" class="gender" id="gender_male" style="width: 20px; margin-top: 5px;" value="male" />Male</span>
+            <span class="regtext-format"><input type="checkbox" name="gender" class="gender" id="gender_female" style="width: 20px; margin-top: 5px;" value="female" />Female</span>
+        </span>
+
+		<br />
+		<span>
+            <label class="regtext-format">
+            Birthdate
+            </label>
+            <input type="text" name="month" id="month" value="MM"  style="width: 30px;" maxlength="2" onfocus="clear_textfield( 'month' );" />
+            <input type="text" name="day" id="day" value="DD" style="width: 30px;" maxlength="2" onfocus="clear_textfield( 'day' );" />
+            <input type="text" name="year" id="year" value="YYYY" style="width: 50px;" maxlength="4" onfocus="clear_textfield( 'year' );"  />
+        	<!-- <span class="violet-text" style="clear: left; float: left;">( Ex: 01-01-1984 )</span> -->
+        </span>
+        
+		<br />
+		<span style="clear: both; float: left;">
+        	<span class="violet-text">( mandatory if you are 13 years old or below )</span>
+            <br />
+            <span style="clear: both; float: left;">
+            <input type="text" name="parent_first_name" id="parent_first_name" value="Parent's First Name"  onfocus="clear_textfield( 'parent_first_name' );"  />
+            <input type="text" name="parent_last_name" id="parent_last_name" value="Parent's Last Name"  onfocus="clear_textfield( 'parent_last_name' );"  />
+            <input type="text" name="parent_email" id="parent_email" value="Parent's Email Address"  onfocus="clear_textfield( 'parent_email' );"  />
+            </span>
+        </span>
+
+            <div id="terms-n-agreement-container" >
+                <div id="terms-n-agreement">
+Privacy Policy<br />
+Turner Broadcasting System Asia Pacific, Inc. is fully committed to providing fun, entertaining and safe web sites for people of all ages. We want our audience to feel comfortable exploring the contents offered on this website and among websites owned and operated by Turner Broadcasting System Asia Pacific, Inc. or its affiliates in the Asia Pacific, which as at the date of this Privacy Policy includes <a href="http://www.cartoonnetwork.com.au" target="_blank"><u>www.cartoonnetwork.com.au</u></a>, <a href="http://www.cartoonnetworkindia.com" target="_blank"><u>www.cartoonnetworkindia.com</u></a>, <a href="http://www.cartoonnetwork.co.nz" target="_blank"><u>www.cartoonnetwork.co.nz</u></a>, <a href="http://www.cartoonnetwork.co.th" target="_blank"><u>www.cartoonnetwork.co.th</u></a>, <a href="http://www.cartoonnetwork.com.vn" target="_blank"><u>www.cartoonnetwork.com.vn</u></a>, <a href="http://www.cartoonnetwork.com.tw" target="_blank"><u>www.cartoonnetwork.com.tw</u></a>, <a href="http://www.cartoonnetworkasia.com" target="_blank"><u>www.cartoonnetworkasia.com</u></a>, <a href="http://www.cartoonnetworkshop.com.au" target="_blank"><u>www.cartoonnetworkshop.com.au</u></a>, <a href="http://www.gwen10.com" target="_blank"><u>www.gwen10.com</u></a>, <a href="http://www.toonfootball.com" target="_blank"><u>www.toonfootball.com</u></a>, <a href="http://www.tooncreator.cartoonnetwork.hq.com" target="_blank"><u>www.tooncreator.cartoonnetwork.hq.com</u></a>, <a href="http://www.ben10.net" target="_blank"><u>www.ben10.net</u></a>, <a href="http://www.boomerangtv.com.au" target="_blank"><u>www.boomerangtv.com.au</u></a>, <a href="http://www.pogo.tv" target="_blank"><u>www.pogo.tv</u></a>, <a href="http://www.fusionfall.asia" target="_blank"><u>www.fusionfall.asia</u></a>, <a href="http://www.tomandjerryworld.com" target="_blank"><u>www.tomandjerryworld.com</u></a>, <a href="http://www.toonbasketball.com" target="_blank"><u>www.toonbasketball.com</u></a>, or amended from time to time (collectively, the "Sites"). 
+
+<p style="color:#000000;"> 
+Because many users of our Site are children, we take care that the content of the Sites are suitable for children and that we take appropriate measures to help children protect their privacy online. This Privacy Policy outlines and clarifies how we collect and use information online, our advertising policies and the safeguards we recommend to ensure a fun and safe web experience. We employ special measures to help children protect their privacy while online.  We do not ask children to disclose more personal information than is necessary for them to participate in a particular activity, and we take steps to prevent children from posting contact information.  As new technology and online standards evolve, we may modify these policies to better address your concerns. 
+</p>
+
+<p style="color:#000000;"> 
+<b>1. Data Collection</b>
+</p>
+
+<p style="color:#000000;"> 
+Turner Broadcasting System Asia Pacific, Inc. ("Turner", "we" or "us") does not collect any personally identifiable information from its visitors without the person being aware that they are providing the information. Instead, personal information, such as names and e-mail addresses, is obtained only during the registration process and when Site users fill out contest entry forms, subscribe to newsletters, contact us via e-mail, participate in message boards, chat rooms, profile pages, social community environments or otherwise voluntarily provide this information to us. 
+</p>
+<p style="color:#000000;"> 
+We may use or disclose personal information if we reasonably believe that the use or disclosure is necessary to prevent improper conduct or a breach of law, or if its use or disclosure is required or authorised by law, or in response to a law enforcement agency's or other public agency's (including schools or children services) request or if we feel that such disclosure may prevent the instigation of a crime. Finally, we may disclose information to a prospective purchaser of our company (or its assets), to the extent permitted by law. 
+</p>
+
+<p style="color:#000000;"> 
+In all other circumstances, we will use personally identifiable information only for the purpose for which it is provided. Under no circumstances will we sell or otherwise disclose personal information to any third party. We may also ask for a parental email address for children under the age of 14 who register in order to try and provide notice to the parent or guardian that his or her child would like to participate in registration for certain features (such as newsletters).  We make all reasonable efforts to give notice via e-mail to parents or guardians of children under the age of 14 when we collect information (e-mail addresses or any other information) from their child. For Site users over 14 years of age, we may collect information, with your permission, that will be used to improve your experience on the Site (e.g., online surveys). You may ask us at any time to let you know what personal information we have collected from you or your child (aged under 14 years). On your request, we will amend any such information we are holding that is incorrect or delete such information. 
+</p>
+
+<p style="color:#000000;"> 
+We may transfer personal information and store it outside of the jurisdiction in which a Site user is located and, although such personal information will be protected by the security measures described in this privacy policy, it will be also be subject to local laws. We will not use or transfer personally identifiable information in ways that are materially different from the ones described above without also providing notice to our Site users (and/or their parents/guardians). 
+</p>
+
+
+<p style="color:#000000;"> 
+We also may collect some non-personally identifiable information such as the current Internet protocol address and the type of computer operating system they are using (e.g., Microsoft Windows or Mac OS), the type of browser they are using (e.g., Firefox, Internet Explorer), the domain name of the Internet service provider (e.g., America Online, Earthlink), their activities while visiting our Sites, their activities while playing games or utilizing services on our Sites (e.g., which of our Web pages you viewed or which games you played), and the advertisements they have been shown.
+</p>
+
+<p style="color:#000000;"> 
+We have systems and procedures in place to safeguard, and help prevent unauthorised access to or use of, the information we collect online and to maintain data security.
+</p>
+
+<p style="color:#000000;"> 
+<b>2. Online Payment Terms</b>
+</p>
+
+<p style="color:#000000;"> 
+Visitors who order merchandise or other materials from the Sites or participate in certain interactive features may be required to provide their full name, billing and mailing addresses, e-mail address, telephone number and a credit card number.  If an order is being shipped to a third party, we will also need the recipient's name and mailing address.  Before collecting information in connection with an e-commerce order, we will verify the validity of the purchaser's credit card.  On occasion, we might solicit additional voluntary information regarding shoppers' personal shopping preferences.
+</p>
+
+<p style="color:#000000;"> 
+Some Sites may offer PayPal for online payment transactions. When you use PayPal, your financial information is not shared with Turner and such financial information will be subject to PayPal's privacy policy, which can be found here: <a href="https://cms.paypal.com/us/cgi-bin/marketingweb?cmd=_render-content&amp;content_ID=ua/Privacy_full&amp;locale.x=en_US" target="_blank"><u>https://cms.paypal.com/us/cgi-bin/marketingweb?cmd=_render-content&amp;content_ID=ua/Privacy_full&amp;locale.x=en_US</u></a>.
+</p>
+
+<p style="color:#000000;"> 
+We use sophisticated encryption technology and secure servers to keep your personal information (including your name, email and mailing address, phone number, credit card information and purchase history) safe. All your ordering information is protected during transmission by using the Secure Sockets Layer (SSL), which encrypts the information that you input so it can't be read in transit. In addition, the customer data we collect is protected against unauthorized access. We may contact you to verify the accuracy of the information supplied when opening your account. 
+</p>
+
+<p style="color:#000000;"> 
+These Sites store customer information (name, address, order information, etc.) on dedicated secure servers to protect against unauthorized access. We also encrypt all data during transmission to further safeguard your interests.
+</p>
+
+<p style="color:#000000;"> 
+<b>3. How We Use the Information</b>
+</p>
+
+<p style="color:#000000;"> 
+We strive to create imaginative online contests and promotions. We do this because, well, it's fun. By registering on the Site and establishing an account, you acknowledge that we will conduct these contests and promotions and, if applicable, your parent or guardian acknowledges that you will be entitled to participate in such contests or promotions. Once a contest winner has been selected, that person will be contacted via the winner's e-mail address given at the time of entry. If the e-mail address has changed or been deleted or is no longer operational, the entry will become void. We will not be held responsible for invalid e-mail addresses. 
+</p>
+
+<p style="color:#000000;"> 
+We do not continue to retain any personal information we obtain through a contest or sweepstakes unless we have successfully selected a winner(s), awarded the prize(s), and administered the contest or sweepstakes.  We only use the e-mail addresses of subscribers to our Sites' e-mail newsletters to send them the requested newsletter(s).  Each newsletter also includes instructions for subscription removal via return e-mail.
+</p>
+
+<p style="color:#000000;"> 
+We will use reasonable efforts to contact parents or guardians via e-mail to notify when we have received personal information such as e-mail addresses from their children and to give parents the option of removing the child's e-mail address from the list of entries. We will not use a parent's or guardian's e-mail address for any other purpose. We will remove a parent's or their child's details from our database within 72 hours of any request from that parent. Sometimes we may also require a Site user to provide us additional information that is not personally identifiable. For example, we might ask you to tell us your favourite character or answer a trivia question. 
+</p>
+
+<p style="color:#000000;"> 
+We never sell, rent, or otherwise share our visitors' personal information with third parties without appropriate consent, though we may use agents or contractors to provide services to our visitors, such as helping us conduct sweepstakes, sending prizes to winners, shipping customer orders made on the Sites or providing customer service related to activities on the Sites. In these cases, we require the agent or contractor to keep the information confidential and to use it only for the specific services they are performing. We may on occasion combine information we collect through our Sites with information that we collect from other sources. We sometimes use non-personally identifiable information that we collect to improve the design and content of our Sites, and to improve our visitors' experience on the Sites. We also may aggregate, use and share this information with third parties to analyze Site usage, as well as to offer products, programs, or services. 
+</p>
+
+<p style="color:#000000;"> 
+We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may use and disclose such information in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, to verify or enforce compliance with the policies governing our Sites and applicable laws, or as otherwise required or permitted by law or consistent with legal requirements. In addition, we may transfer personally identifiable information about you if we or one of our business units are acquired by, sold to, or merged with another entity.
+</p>
+
+<p style="color:#000000;"> 
+We will not use or transfer personally identifiable information in ways that are materially different from the ones described above without also providing appropriate notification of such practices and obtaining consent for any materially different uses.
+</p>
+
+<p style="color:#000000;"> 
+<b>4. Voluntary Submissions Via E-mail</b>
+</p>
+
+<p style="color:#000000;"> 
+We enjoy interacting with our audience. Therefore, there will be opportunities for Site users to contact us online. In these areas, an e-mail address will be collected and, in some cases, you may receive a response. 
+</p>
+
+<p style="color:#000000;"> 
+In addition, sometimes you will have the choice to select the option to subscribe to a free online newsletter sent to the e-mail address you provide. The newsletter will have fun, informative updates about the Site. We will only provide our newsletter to a child under 14 years of age with consent from their parent or guardian. The parent/guardian can request at any time to delete their child's e-mail address from the newsletter subscription list. In addition, each time the newsletter is e-mailed, directions will clearly be stated how to remove oneself from the e-mail newsletter list. 
+</p>
+
+<p style="color:#000000;"> 
+Under no circumstances will your e-mail address be provided to any third parties. 
+</p>
+
+<p style="color:#000000;"> 
+<b>5. Cookies: the Non-Edible Kind</b>
+</p>
+
+<p style="color:#000000;"> 
+Cookies are tiny pieces of information that your browser stores on your computer, such as what browser you're using or what operating system you use. 
+</p>
+
+<p style="color:#000000;"> 
+We use cookies to help make your experience better and understand how well we're doing. We only use cookies so that we know how many visitors we have and how often they visit: that's the best way to know if you like what we're doing. Under no circumstances do we use cookies to collect or cross-relate personal information about you. 
+</p>
+
+<p style="color:#000000;"> 
+<b>6. Collection of Information by Third-Party Sites, Ad Servers and Sponsors</b>
+</p>
+
+<p style="color:#000000;"> 
+Our Sites contain links to other Web sites, including those of sponsors and advertisers, whose information practices may be different from ours. Sometimes these third party Web sites might conduct contests or sweepstakes that are promoted on our Sites. Visitors should consult those other third party Web sites' privacy notices, since those Web sites are not covered by our Privacy Statement and may follow different procedures.
+</p>
+
+<p style="color:#000000;"> 
+Additionally, we and our advertisers may use third parties to serve or present the ads that appear on our site and to conduct research about the advertisements. These third parties may use their own cookies. We, our third party service providers and/or partners may also place cookies, web beacons, clear .gifs or similar technologies to help present advertisements on Sites, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by our Privacy Statement. For more information about third-party ad servers and your ability to opt-out of targeted advertising from such third party ad servers generally, please see <a href="http://www.networkadvertising.org/" target="_blank"><u>http://www.networkadvertising.org/</u></a>.
+</p>
+
+<p style="color:#000000;"> 
+<b>7. International Transfer</b>
+</p>
+
+<p style="color:#000000;"> 
+Turner operates globally so it may be necessary to transfer any information provided to these Sites internationally.  In particular, the information provided will likely be transferred to and processed in the United States, United Kingdom or Hong Kong where many of our central databases operate. The data protection and other laws of other countries may not be as comprehensive as those in your country.  Please be assured that we take reasonable steps to ensure that your privacy is protected in case of such transfer, and that your data continues to be used as set forth in this Privacy Policy where practicable.
+</p>
+
+<p style="color:#000000;"> 
+<b>8. Safeguards - Monitor Your Child's Internet Usage</b>
+</p>
+
+<p style="color:#000000;"> 
+As we have taken special precautions to aid in the safety of your child's World Wide Web experience, we ask parents to monitor closely the Internet activities of their children and become educated on the various Internet and software tools available so as to ensure that their child has a fun, safe and satisfying on-line experience. If you would like to access the personally identifiable information that we have collected online from your child, correct any factual errors in that information or request the deletion of this information, please contact us at the mailing address provided below. To protect your child's privacy and security, we will take reasonable steps to verify your identity before granting you access to any information that we have collected and maintained about your child. 
+</p>
+
+<p style="color:#000000;"> 
+<b>9. Contact Us</b>
+</p>
+
+<p style="color:#000000;"> 
+If you have any questions, comments or concerns regarding our Privacy Policy and/or practices, please contact us at the following e-mail address, mailing address and telephone number:
+</p>
+
+<p style="color:#000000;"> 
+Email: <a href="privacyasiapac@turner.com" target="_blank"><u>privacyasiapac@turner.com</u></a>
+<br>Mailing Address: Turner Privacy Officer
+<br>Turner Broadcasting System Asia Pacific, Inc.
+<br>30/F Oxford House, Taikoo Place, 979 King's Road,
+<br>Quarry Bay, Hong Kong
+<br>Telephone: 3128 3333
+</p>
+
+<p style="color:#000000;"> 
+<b>10. Updates and Effective Date</b>
+</p>
+
+<p style="color:#000000;"> 
+From time to time, we may update this Privacy Policy.  Where practicable, we will notify you about material changes in the way we treat personally identifiable information by placing a notice on our Sites before the changes in the Privacy Policy come into effect.  We encourage you to periodically check back and review this policy so that you will always know what information we collect, how we use it and with whom we share it.
+</p>
+                </div>        
+                
+                <!--
+                <div id="scroll-bar"  class="dragger_container">
+                    <div class="dragger"></div>
+                </div>
+                -->
+            </div> 
+		</div>
+
+
+
+        <br />
+        <div id="tna-checkbox">
+            <input type="checkbox" name="tna" id="tna" value="" style="width: 10px;" />
+            I have read and agree with the Cartoon Network 
+            <a href="http://www.cartoonnetworkasia.com/parents/privacy.php" class="light-blue-text">Privacy Policy</a> and 
+            <a href="http://www.cartoonnetworkasia.com/parents/terms.php" class="light-blue-text">Terms of Use</a>
+        </div>
+               
+               
+        <div id="registration-btn-container">
+            <button id="registration-btn" onclick="register(); return false;"></button> 
+        </div>
+    </form>
+    </div>
+</div>
+
+<script type="text/javascript">
+
+$(function()
+{
+    $("input:checkbox.gender").click(function()
+    {
+      $("input:checkbox.gender").not( $(this) ).removeAttr("checked");
+      $(this).attr( "checked", $(this).attr("checked") );
+    });
+});
+
+</script>
+
+
+</div>
+
+
+
+
+<div id="popup-mvquiz-content" class="hide">
+    <div id="mv-quiz-container"></div>
+</div>
+
+<div id="popup-mvepisode-content" class="hide">
+    <div id="mv-popup-container"></div>
+</div>
+
+
+
+<!-- WEB CONTENT START -->
+<div id="wrapper">
+<!-- HEADER -->
+<!-- HEADER -->
+<div id="header">
+    <ul id="navlist">
+      <li id="chaching-menu"><a href="#" id="nav-index"></a></li>
+      <li id="backstage-menu"><a href="#" id="nav-backstage"></a></li>
+      <li id="games-menu"><a href="#" id="nav-games"></a></li>
+      <li id="apps-menu"><a href="#" id="nav-apps"></a></li>
+      <li id="mvs-menu"><a href="#" id="nav-mvs"></a></li>
+      <li id="myprofile-menu"><a href="#" id="nav-myprofile"></a></li>
+      <li id="contest-menu"><a href="#" id="nav-contest"></a></li>
+      <li id="parents-menu"><a href="#" id="nav-parents"></a></li>
+    </ul>
+</div>
+
+
+<!-- CONTENT -->
+<div id="content">
+    <div id="login">
+                    <a href='#' onclick="show_popup_content( 'popup-login-content' );" ><span id='login-text'>Log In</span></a>
+        </div>
+
+    <div class="page-subcontent">
+    
+    <div id="mvs-main-container">
+    	<a href="index.php" id="close-btn"></a>
+        <div id="mvs-thumbnails">
+                        <div id="mvs-thumb" style="cursor:pointer;"
+                 onmouseover="add_text( 'mv-title', 'Earn, Save, Spend & Donate' );hide_image( 'epi1' );"
+                 onmouseout="remove_text( 'mv-title', 'Please Select a Music Video' ); show_image( 'epi1' );"
+                 onclick="track_event( '/swfs/MVs.swf.html', 'MVS', 'Mvs', 'MV', 1, 'click'  ); view_episode( 'popup-mvepisode-content', 'mvs_episode.php', 'http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/', 'http://www.cartoonnetworkasia.com/contest/2011/07_prudential//', 'PH' , 'epi1.flv', 'rtmp://cp55901.edgefcs.net/ondemand/flash/cn/eng/contest/cha-ching/', 1, 'http://www.youtube.com/embed/yD6iVjViT4Y?rel=0' );">
+                <a href="#" id="mv-epi1" class="active-mv" >
+                    <img src="includes/images/mvs/overlay.png" alt="epi1 " id="epi1" />
+                </a>
+            </div>
+                        <div id="mvs-thumb" style="cursor:pointer;"
+                 onmouseover="add_text( 'mv-title', 'It’s Got To Be Earned' );hide_image( 'epi2' );"
+                 onmouseout="remove_text( 'mv-title', 'Please Select a Music Video' ); show_image( 'epi2' );"
+                 onclick="track_event( '/swfs/MVs.swf.html', 'MVS', 'Mvs', 'MV', 2, 'click'  ); view_episode( 'popup-mvepisode-content', 'mvs_episode.php', 'http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/', 'http://www.cartoonnetworkasia.com/contest/2011/07_prudential//', 'PH' , 'epi2.flv', 'rtmp://cp55901.edgefcs.net/ondemand/flash/cn/eng/contest/cha-ching/', 2, 'http://www.youtube.com/embed/HmvgOz86M_s?rel=0' );">
+                <a href="#" id="mv-epi2" class="active-mv" >
+                    <img src="includes/images/mvs/overlay.png" alt="epi2 " id="epi2" />
+                </a>
+            </div>
+                        <div id="mvs-thumb" style="cursor:pointer;"
+                 onmouseover="add_text( 'mv-title', 'Entrepreneur' );hide_image( 'epi3' );"
+                 onmouseout="remove_text( 'mv-title', 'Please Select a Music Video' ); show_image( 'epi3' );"
+                 onclick="track_event( '/swfs/MVs.swf.html', 'MVS', 'Mvs', 'MV', 3, 'click'  ); view_episode( 'popup-mvepisode-content', 'mvs_episode.php', 'http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/', 'http://www.cartoonnetworkasia.com/contest/2011/07_prudential//', 'PH' , 'epi3.flv', 'rtmp://cp55901.edgefcs.net/ondemand/flash/cn/eng/contest/cha-ching/', 3, 'http://www.youtube.com/embed/IJXBet--kvg?rel=0' );">
+                <a href="#" id="mv-epi3" class="active-mv" >
+                    <img src="includes/images/mvs/overlay.png" alt="epi3 " id="epi3" />
+                </a>
+            </div>
+                        <div id="mvs-thumb" style="cursor:pointer;"
+                 onmouseover="add_text( 'mv-title', 'Grow Money' );hide_image( 'epi4' );"
+                 onmouseout="remove_text( 'mv-title', 'Please Select a Music Video' ); show_image( 'epi4' );"
+                 onclick="track_event( '/swfs/MVs.swf.html', 'MVS', 'Mvs', 'MV', 4, 'click'  ); view_episode( 'popup-mvepisode-content', 'mvs_episode.php', 'http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/', 'http://www.cartoonnetworkasia.com/contest/2011/07_prudential//', 'PH' , 'epi4.flv', 'rtmp://cp55901.edgefcs.net/ondemand/flash/cn/eng/contest/cha-ching/', 4, 'http://www.youtube.com/embed/ryVLJhNtn9o?rel=0' );">
+                <a href="#" id="mv-epi4" class="active-mv" >
+                    <img src="includes/images/mvs/overlay.png" alt="epi4 " id="epi4" />
+                </a>
+            </div>
+                        <div id="mvs-thumb" style="cursor:pointer;"
+                 onmouseover="add_text( 'mv-title', 'Saving for Success' );hide_image( 'epi5' );"
+                 onmouseout="remove_text( 'mv-title', 'Please Select a Music Video' ); show_image( 'epi5' );"
+                 onclick="track_event( '/swfs/MVs.swf.html', 'MVS', 'Mvs', 'MV', 5, 'click'  ); view_episode( 'popup-mvepisode-content', 'mvs_episode.php', 'http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/', 'http://www.cartoonnetworkasia.com/contest/2011/07_prudential//', 'PH' , 'epi5.flv', 'rtmp://cp55901.edgefcs.net/ondemand/flash/cn/eng/contest/cha-ching/', 5, 'http://www.youtube.com/embed/igUKUJB-txk?rel=0' );">
+                <a href="#" id="mv-epi5" class="active-mv" >
+                    <img src="includes/images/mvs/overlay.png" alt="epi5 " id="epi5" />
+                </a>
+            </div>
+                        <div id="mvs-thumb" style="cursor:pointer;"
+                 onmouseover="add_text( 'mv-title', 'Just In Case' );hide_image( 'epi6' );"
+                 onmouseout="remove_text( 'mv-title', 'Please Select a Music Video' ); show_image( 'epi6' );"
+                 onclick="track_event( '/swfs/MVs.swf.html', 'MVS', 'Mvs', 'MV', 6, 'click'  ); view_episode( 'popup-mvepisode-content', 'mvs_episode.php', 'http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/', 'http://www.cartoonnetworkasia.com/contest/2011/07_prudential//', 'PH' , 'epi6.flv', 'rtmp://cp55901.edgefcs.net/ondemand/flash/cn/eng/contest/cha-ching/', 6, 'http://www.youtube.com/embed/J-FErSM9mKY?rel=0' );">
+                <a href="#" id="mv-epi6" class="active-mv" >
+                    <img src="includes/images/mvs/overlay.png" alt="epi6 " id="epi6" />
+                </a>
+            </div>
+                        <div id="mvs-thumb" style="cursor:pointer;"
+                 onmouseover="add_text( 'mv-title', 'Spend Money Wisely, My Friend' );hide_image( 'epi7' );"
+                 onmouseout="remove_text( 'mv-title', 'Please Select a Music Video' ); show_image( 'epi7' );"
+                 onclick="track_event( '/swfs/MVs.swf.html', 'MVS', 'Mvs', 'MV', 7, 'click'  ); view_episode( 'popup-mvepisode-content', 'mvs_episode.php', 'http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/', 'http://www.cartoonnetworkasia.com/contest/2011/07_prudential//', 'PH' , 'epi7.flv', 'rtmp://cp55901.edgefcs.net/ondemand/flash/cn/eng/contest/cha-ching/', 7, 'http://www.youtube.com/embed/Xls83L0hWyk?rel=0' );">
+                <a href="#" id="mv-epi7" class="active-mv" >
+                    <img src="includes/images/mvs/overlay.png" alt="epi7 " id="epi7" />
+                </a>
+            </div>
+                        <div id="mvs-thumb" style="cursor:pointer;"
+                 onmouseover="add_text( 'mv-title', 'Please Little Spender, Think' );hide_image( 'epi8' );"
+                 onmouseout="remove_text( 'mv-title', 'Please Select a Music Video' ); show_image( 'epi8' );"
+                 onclick="track_event( '/swfs/MVs.swf.html', 'MVS', 'Mvs', 'MV', 8, 'click'  ); view_episode( 'popup-mvepisode-content', 'mvs_episode.php', 'http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/', 'http://www.cartoonnetworkasia.com/contest/2011/07_prudential//', 'PH' , 'epi8.flv', 'rtmp://cp55901.edgefcs.net/ondemand/flash/cn/eng/contest/cha-ching/', 8, 'http://www.youtube.com/embed/Mf3H12iYxU4?rel=0' );">
+                <a href="#" id="mv-epi8" class="active-mv" >
+                    <img src="includes/images/mvs/overlay.png" alt="epi8 " id="epi8" />
+                </a>
+            </div>
+                        <div id="mvs-thumb" style="cursor:pointer;"
+                 onmouseover="add_text( 'mv-title', 'Charity' );hide_image( 'epi9' );"
+                 onmouseout="remove_text( 'mv-title', 'Please Select a Music Video' ); show_image( 'epi9' );"
+                 onclick="track_event( '/swfs/MVs.swf.html', 'MVS', 'Mvs', 'MV', 9, 'click'  ); view_episode( 'popup-mvepisode-content', 'mvs_episode.php', 'http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/', 'http://www.cartoonnetworkasia.com/contest/2011/07_prudential//', 'PH' , 'epi9.flv', 'rtmp://cp55901.edgefcs.net/ondemand/flash/cn/eng/contest/cha-ching/', 9, 'http://www.youtube.com/embed/mUg-MovCClA?rel=0' );">
+                <a href="#" id="mv-epi9" class="active-mv" >
+                    <img src="includes/images/mvs/overlay.png" alt="epi9 " id="epi9" />
+                </a>
+            </div>
+                        <div id="mvs-thumb" style="cursor:pointer;"
+                 onmouseover="add_text( 'mv-title', 'When You Get Money' );hide_image( 'epi10' );"
+                 onmouseout="remove_text( 'mv-title', 'Please Select a Music Video' ); show_image( 'epi10' );"
+                 onclick="track_event( '/swfs/MVs.swf.html', 'MVS', 'Mvs', 'MV', 10, 'click'  ); view_episode( 'popup-mvepisode-content', 'mvs_episode.php', 'http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/', 'http://www.cartoonnetworkasia.com/contest/2011/07_prudential//', 'PH' , 'epi10.flv', 'rtmp://cp55901.edgefcs.net/ondemand/flash/cn/eng/contest/cha-ching/', 10, 'http://www.youtube.com/embed/ujYZkvR0ys8?rel=0' );">
+                <a href="#" id="mv-epi10" class="active-mv" >
+                    <img src="includes/images/mvs/overlay.png" alt="epi10 " id="epi10" />
+                </a>
+            </div>
+                    </div>
+
+        <div id="mv-title">
+        	Please Select a Music Video	
+        </div>
+    </div>
+
+    </div> <!-- page-subcontent -->
+	
+</div>
+<!-- end content -->
+
+
+<!-- FOOTER -->
+<div id="footer" >
+    <img src="http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/includes/images/common/footer/cn_logo.png" alt="CN Logo" id="cnlogo" class="logo" />
+    <span id="footer-link-legal-lines">
+            <span id="footer-links">
+                <a href="http://www.cartoonnetworkasia.com/parents/privacy.php" class="link-space" target="_blank" id="footer-privacy-link">Privacy Policy</a>
+                <a href="#" class="link-space" id="footer-feedback-link">
+                	<img src="http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/includes/images/common/footer/feedback.png" alt="Feedback" id="feedback" style="vertical-align:middle;" />
+                </a>
+                <a href="http://www.youtube.com/chachingvideos" target="_blank" class="link-space">
+                    <img src="http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/includes/images/common/footer/cc.png" alt="Cha-Ching Channel" id="youtube-icon" />
+                    <img src="http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/includes/images/common/yticon.png" alt="YOUTUBE" id="youtube-icon" />
+                </a>
+                <a href="http://www.cartoonnetworkasia.com/parents/terms.php" target="_blank" id="footer-terms-link" >Terms of Use</a>
+            </span>
+            
+            
+			<span id="legal-lines">	            
+            &#169; 2011 Pru Life UK. All rights reserved. <br />&#174; &amp; &#169; Cartoon Network. A TimeWarner Company.
+            </span>
+    </span>
+    <img src="http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/includes/images/common/footer/uk_logo.png" alt="Prudential Logo"  id="prulogo" class="logo"/>
+</div>
+</div> 
+<!-- end of wrapper -->
+
+
+
+
+<!-- TRACKING SYSTEM ( Webtrends, Omniture ) -->
+<!-- OMNITURE and WEBTRENDS -->
+<!-- OMNITURE CODE -->
+<div id="omniture">
+    <!-- SiteCatalyst code version: H.22.1.
+    Copyright 1996-2010 Adobe, Inc. All Rights Reserved
+    More info available at http://www.omniture.com -->
+
+    <script language="JavaScript" type="text/javascript"><!--
+    /* You may give each page an identifying name, server, and channel on
+    the next lines. */
+    s.pageName=s.getPageName();
+    s.server=""
+    s.channel=""
+    s.pageType=""
+    s.prop1=""
+    s.prop2=""
+    s.prop3=""
+    s.prop4=""
+    s.prop5=""
+    /* Conversion Variables */
+    s.campaign=""
+    s.state=""
+    s.zip=""
+    s.events=""
+    s.products=""
+    s.purchaseID=""
+    s.eVar1=""
+    s.eVar2=""
+    s.eVar3=""
+    s.eVar4=""
+    s.eVar5=""
+    
+    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+    var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+    <script language="JavaScript" type="text/javascript">
+    <!--
+        if ( navigator.appVersion.indexOf('MSIE')>=0 ) document.write(unescape('%3C')+'\!-'+'-')
+    //-->
+    </script>
+    <noscript>
+        <img src="http://turnerapac.d1.sc.omtrdc.net/b/ss/turnerapac-cnasia-prd,turnerapacregional-prd,turnerapac-apacinteractive-prd/1/H.22.1--NS/0?[AQB]&amp;cdp=3&amp;[AQE]"  height="1" width="1" border="0" alt="" />
+    </noscript><!--/DO NOT REMOVE/-->
+    <!-- End SiteCatalyst code version: H.22.1. -->
+</div>
+	
+
+
+
+
+
+
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2011 Webtrends Inc.  All rights reserved. -->
+<!-- Version: 9.4.0 -->
+<!-- Tag Builder Version: 3.2  -->
+<!-- Created: 8/31/2011 6:37:10 AM -->
+<script src="http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/misc/scripts/webtrends.js" type="text/javascript"></script>
+<!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
+<!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
+<script type="text/javascript">
+    //<![CDATA[
+    var _tag=new WebTrends();
+    _tag.dcsGetId();
+    //]]>
+    </script>
+    <script type="text/javascript" >
+    //<![CDATA[
+    _tag.dcsCustom=function(){
+    // Add custom parameters here.
+    //_tag.DCSext.param_name=param_value;
+    }
+    _tag.dcsCollect();
+    //]]>
+</script>
+<noscript>
+   <div>
+       <img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="//sdc.prudential.com.hk/dcskvxn7uqrgxp70jtvkmqecw_3m7g/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=9.4.0&amp;dcssip=www.dev.indigogaming.com" />
+   </div>
+</noscript>
+<!-- END OF SmartSource Data Collector TAG -->
+
+
+<!-- PAGE CHECKER FOR SELECTED MENU -->
+<script type="text/javascript" src="http://static1.cartoonnetworkasia.com/contest/2011/07_prudential/includes/js/page_detector.js"></script>
+<script type="text/javascript">
+	$(document).ready( function(){
+		check_page( 'mv_1.php' );
+		$("#login").css({visibility:"visible"});
+	});
+</script>
+
+</body>
+</html>

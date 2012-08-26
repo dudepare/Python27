@@ -25,7 +25,7 @@ def itemExists(l, item):
     except ValueError:
         return False
    
-def findAnagrams(wordlist):
+def findAnagrams00(wordlist):
     # this holds the list of anagrams found
     anagramlist = []
     # flat list of anagrams
@@ -59,9 +59,34 @@ def findAnagrams(wordlist):
     # return the anagrams found
     return anagramlist
 
-with open("wordlist.dat") as f:
-    worddata = [Word(line.strip()) for line in f]
-    anagrams = findAnagrams(worddata)
-    print "found %d anagrams: " % len(anagrams)
-    for anagram in anagrams:
-        print " ".join(anagram)
+
+def printAnagrams(anagrams):
+    count = 0
+    sortedanagrams = sorted(anagrams.values())
+    for anagramlist in sortedanagrams:
+        if len(anagramlist) > 1:
+            count += 1
+            print " ".join(anagramlist)
+    print ">> found %d anagrams" % (count)
+        
+def main():
+    anagrams = {}
+    with open("wordlist.dat") as f:
+        for line in f:
+            line = line.strip()
+            sortedword = sorted(line)
+            key = "".join(sortedword)
+            anagram = anagrams.setdefault(key,[])
+            anagram.append(line)
+        printAnagrams(anagrams)
+
+def _main():
+    with open("wordlist.dat") as f:
+        worddata = [Word(line.strip()) for line in f]
+        anagrams = findAnagrams00(worddata)
+        print "found %d anagrams: " % len(anagrams)
+        for anagram in anagrams:
+            print " ".join(anagram)
+
+if __name__ == "__main__":
+    main()

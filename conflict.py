@@ -9,19 +9,20 @@ def filterByPrefix(worddb, sixletterwords):
     newlist=[]
     for word in worddb:
         for item in sixletterwords:
-            if item.startswith(word) and len(word) < 6:
-                cw = CompoundWord(item)
-                cw.prefix = word
-                newlist.append(cw)
+            if item.word.startswith(word):
+                item.prefix = word
+                if not item in newlist:
+                    newlist.append(item)
     return newlist
 
 def filterBySuffix(worddb, sixletterwords):
     newlist = []
     for word in worddb:
         for item in sixletterwords:
-            if item.word.endswith(word) and len(word) < 6:
+            if item.word.endswith(word):
                 item.suffix = word
-                newlist.append(item)
+                if not item in newlist:
+                    newlist.append(item)
     return newlist
 
 def filterByLength(sixletterwords):
@@ -39,7 +40,8 @@ with open("wordlist.dat") as f:
         if len(line) < 6:
             worddb.append(line)
         if len(line) == 6:
-            sixletterwords.append(line)
+            cw = CompoundWord(line)
+            sixletterwords.append(cw)
     print len(sixletterwords)
 
     # filter the sixletterwords by prefix  
@@ -48,13 +50,14 @@ with open("wordlist.dat") as f:
     
     # filter the sixletterwords by suffix
     sixletterwords = filterBySuffix(worddb, sixletterwords)
+    print len(sixletterwords)
 
+    # remove prefixes and suffixes that don't add up to six
     sixletterwords = filterByLength(sixletterwords)
     for word in sixletterwords:
         print "%s + %s = %s" %(word.prefix, word.suffix, word.word)
 
     print len(sixletterwords)
-    
 
 
 
